@@ -1,7 +1,7 @@
 # Bernoulli Mukuna - Glean Technical Pre-Interview test
 
 ## How to run the exercises
-The exercises have all been completed using typescript. This README file has been included as a guide
+The exercises have all been completed using TypeScript. This README file has been included as a guide
 to running of the exercises:
 
 1. The first step is install the packages using the command

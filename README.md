@@ -2,7 +2,7 @@
 
 ## How to run the exercises
 The exercises have all been completed using TypeScript. This README file has been included as a guide
-to running of the exercises:
+to running of the exercises (make sure to clone the repository):
 
 1. The first step is install the packages using the command
 ```js
